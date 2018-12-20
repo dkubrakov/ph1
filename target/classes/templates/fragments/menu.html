@@ -51,7 +51,7 @@
 	                  <li><a href="/books" data-th-href="@{/books}" data-th-utext="#{label_list_entity(#{label_book_plural})}">List Book</a></li>
                  </ul>
                 </li>
-                <li class="dropdown" id="contract-entry" data-z="d26876e8">
+                <li sec:authorize="hasRole('ROLE_ADMIN')" class="dropdown" id="contract-entry" data-z="d26876e8">
                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-th-utext="#{label_menu_entry(#{label_contract})}">Contract<span class="caret"></span></a>
                  <ul class="dropdown-menu">
 	                   <li><a href="/contracts/create-form" data-th-href="@{/contracts/create-form}" data-th-utext="#{label_create_entity(#{label_contract})}">Create Contract</a></li>
@@ -65,7 +65,7 @@
 	                  <li><a href="/customers" data-th-href="@{/customers}" data-th-utext="#{label_list_entity(#{label_customer_plural})}">List Customer</a></li>
                  </ul>
                 </li>
-                <li class="dropdown" id="employer-entry" data-z="723632e8">
+                <li sec:authorize="hasRole('ROLE_ADMIN')" class="dropdown" id="employer-entry" data-z="723632e8">
                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-th-utext="#{label_menu_entry(#{label_employer})}">Employer<span class="caret"></span></a>
                  <ul class="dropdown-menu">
 	                   <li><a href="/employers/create-form" data-th-href="@{/employers/create-form}" data-th-utext="#{label_create_entity(#{label_employer})}">Create Employer</a></li>

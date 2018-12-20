@@ -1,8 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d65b7218-37fa-49c5-8068-d1e6ab7952d4" name="Default" comment="add gitignore">
+    <list default="true" id="d65b7218-37fa-49c5-8068-d1e6ab7952d4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ph.lck" afterPath="$PROJECT_DIR$/ph.lck" />
+      <change beforePath="$PROJECT_DIR$/ph.properties" afterPath="$PROJECT_DIR$/ph.properties" />
+      <change beforePath="$PROJECT_DIR$/run.cmd" afterPath="$PROJECT_DIR$/run.cmd" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/banner.txt" afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" />
+      <change beforePath="$PROJECT_DIR$/target/classes/banner.txt" afterPath="$PROJECT_DIR$/target/classes/banner.txt" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/config/WebMvcConfiguration.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/config/WebMvcConfiguration.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/config/WebMvcConfiguration_Roo_ThymeleafUIConfiguration.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/config/WebMvcConfiguration_Roo_ThymeleafUIConfiguration.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/Author.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/Author.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/Author_Roo_JavaBean.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/Author_Roo_JavaBean.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/Author_Roo_Jpa_Entity.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/Author_Roo_Jpa_Entity.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/Book.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/Book.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/Book_Roo_JavaBean.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/Book_Roo_JavaBean.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/Contract.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/Contract.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/Contract_Roo_JavaBean.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/Contract_Roo_JavaBean.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/Customer.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/Customer.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/Customer_Roo_JavaBean.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/Customer_Roo_JavaBean.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/Employer.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/Employer.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/Employer_Roo_JavaBean.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/Employer_Roo_JavaBean.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/OrderBook.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/OrderBook.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/OrderBook_Roo_JavaBean.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/OrderBook_Roo_JavaBean.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/domain/OrderBook_Roo_Jpa_Entity.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/domain/OrderBook_Roo_Jpa_Entity.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/repository/AuthorRepositoryImpl.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/repository/AuthorRepositoryImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/repository/BookRepositoryImpl.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/repository/BookRepositoryImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/repository/ContractRepositoryImpl.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/repository/ContractRepositoryImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/repository/CustomerRepositoryImpl.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/repository/CustomerRepositoryImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/repository/EmployerRepositoryImpl.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/repository/EmployerRepositoryImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/repository/OrderBookRepositoryImpl.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/repository/OrderBookRepositoryImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/service/impl/AuthorServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/service/impl/AuthorServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/service/impl/AuthorServiceImpl_Roo_Service_Impl.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/service/impl/AuthorServiceImpl_Roo_Service_Impl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/service/impl/OrderBookServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/service/impl/OrderBookServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/service/impl/OrderBookServiceImpl_Roo_Service_Impl.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/service/impl/OrderBookServiceImpl_Roo_Service_Impl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorDeserializer.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorDeserializer.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorDeserializer_Roo_EntityDeserializer.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorDeserializer_Roo_EntityDeserializer.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorJsonMixin.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorJsonMixin.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorJsonMixin_Roo_JSONMixin.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorJsonMixin_Roo_JSONMixin.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsCollectionThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsCollectionThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsCollectionThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsCollectionThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsItemBooksThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsItemBooksThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsItemBooksThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsItemBooksThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsItemContractsThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsItemContractsThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsItemContractsThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsItemContractsThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsItemThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsItemThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsItemThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/AuthorsItemThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/BookDeserializer.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/BookDeserializer.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/BookDeserializer_Roo_EntityDeserializer.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/BookDeserializer_Roo_EntityDeserializer.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/BooksCollectionThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/BooksCollectionThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/BooksCollectionThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/BooksCollectionThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/BooksItemThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/BooksItemThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/BooksItemThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/BooksItemThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractDeserializer.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractDeserializer.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractDeserializer_Roo_EntityDeserializer.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractDeserializer_Roo_EntityDeserializer.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractJsonMixin.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractJsonMixin.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractJsonMixin_Roo_JSONMixin.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractJsonMixin_Roo_JSONMixin.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractsCollectionThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractsCollectionThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractsCollectionThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractsCollectionThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractsItemThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractsItemThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractsItemThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/ContractsItemThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/CustomersCollectionThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/CustomersCollectionThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/CustomersCollectionThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/CustomersCollectionThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/CustomersItemThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/CustomersItemThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/CustomersItemThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/CustomersItemThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployerDeserializer.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployerDeserializer.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployerDeserializer_Roo_EntityDeserializer.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployerDeserializer_Roo_EntityDeserializer.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployersCollectionThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployersCollectionThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployersCollectionThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployersCollectionThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployersItemContractsThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployersItemContractsThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployersItemContractsThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployersItemContractsThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployersItemThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployersItemThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployersItemThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/EmployersItemThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksCollectionThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksCollectionThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksCollectionThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksCollectionThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksItemBooksThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksItemBooksThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksItemBooksThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksItemBooksThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksItemCustomersThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksItemCustomersThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksItemCustomersThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksItemCustomersThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksItemThymeleafController.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksItemThymeleafController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksItemThymeleafController_Roo_Thymeleaf.class" afterPath="$PROJECT_DIR$/target/classes/roo/ph/web/OrderBooksItemThymeleafController_Roo_Thymeleaf.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/footer.html" afterPath="$PROJECT_DIR$/target/classes/templates/fragments/footer.html" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/menu.html" afterPath="$PROJECT_DIR$/target/classes/templates/fragments/menu.html" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,32 +94,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="252">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5943">
-              <caret line="283" column="33" lean-forward="false" selection-start-line="283" selection-start-column="30" selection-end-line="283" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="1029">
               <caret line="67" column="58" lean-forward="false" selection-start-line="67" selection-start-column="58" selection-end-line="67" selection-end-column="58" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="59" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home-layout.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/layouts/home-layout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="92" lean-forward="false" selection-start-line="16" selection-start-column="92" selection-end-line="16" selection-end-column="92" />
+              <folding>
+                <marker date="1545338780572" expanded="true" signature="2012:2088" ph="..." />
+                <marker date="1545338780572" expanded="true" signature="2161:2238" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,9 +157,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/menu.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" />
       </list>
     </option>
   </component>
@@ -114,6 +207,67 @@
             <path>
               <item name="ph" type="b2602c69:ProjectViewProjectNode" />
               <item name="ph1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ph1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ph1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ph1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ph1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ph1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ph1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ph1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="fragments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ph1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -248,7 +402,7 @@
       <option name="presentableId" value="Default" />
       <updated>1545339341405</updated>
       <workItem from="1545339343421" duration="1203000" />
-      <workItem from="1545341165739" duration="997000" />
+      <workItem from="1545341165739" duration="1943000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1545341430622</created>
@@ -264,14 +418,22 @@
       <option name="project" value="LOCAL" />
       <updated>1545342165809</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add gitignore">
+      <created>1545342174437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545342174437</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2200000" />
+    <option name="totallyTimeSpent" value="3146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="0" width="2503" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -281,13 +443,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5468208" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33872834" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33872834" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.249693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.249693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -309,13 +471,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add gitignore" />
     <MESSAGE value="add maven wrapper" />
-    <option name="LAST_COMMIT_MESSAGE" value="add maven wrapper" />
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -346,22 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5943">
-          <caret line="283" column="33" lean-forward="false" selection-start-line="283" selection-start-column="30" selection-end-line="283" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -370,10 +542,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="283" column="33" lean-forward="false" selection-start-line="283" selection-start-column="30" selection-end-line="283" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/public/css/springroo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="1029">
           <caret line="67" column="58" lean-forward="false" selection-start-line="67" selection-start-column="58" selection-end-line="67" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="59" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/layouts/home-layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="92" lean-forward="false" selection-start-line="16" selection-start-column="92" selection-end-line="16" selection-end-column="92" />
+          <folding>
+            <marker date="1545338780572" expanded="true" signature="2012:2088" ph="..." />
+            <marker date="1545338780572" expanded="true" signature="2161:2238" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/accessibility.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
